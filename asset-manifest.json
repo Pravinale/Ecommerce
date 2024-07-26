@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ecommerce/static/css/main.7972e375.css",
-    "main.js": "/Ecommerce/static/js/main.9125677b.js",
+    "main.js": "/Ecommerce/static/js/main.2f8f4c80.js",
     "static/media/ipad pro.webp": "/Ecommerce/static/media/ipad pro.44183d26fe246407e59b.webp",
     "static/media/hp.png": "/Ecommerce/static/media/hp.03dbf10751ae83e67c04.png",
     "static/media/acer.webp": "/Ecommerce/static/media/acer.5c4ad1e9fd127a0fe6f7.webp",
@@ -17,10 +17,10 @@
     "static/media/earphone3.webp": "/Ecommerce/static/media/earphone3.a19fc56795c80deb9339.webp",
     "index.html": "/Ecommerce/index.html",
     "main.7972e375.css.map": "/Ecommerce/static/css/main.7972e375.css.map",
-    "main.9125677b.js.map": "/Ecommerce/static/js/main.9125677b.js.map"
+    "main.2f8f4c80.js.map": "/Ecommerce/static/js/main.2f8f4c80.js.map"
   },
   "entrypoints": [
     "static/css/main.7972e375.css",
-    "static/js/main.9125677b.js"
+    "static/js/main.2f8f4c80.js"
   ]
 }
