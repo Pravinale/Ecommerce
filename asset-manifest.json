@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ecommerce/static/css/main.7972e375.css",
+    "main.js": "/Ecommerce/static/js/main.9125677b.js",
+    "static/media/ipad pro.webp": "/Ecommerce/static/media/ipad pro.44183d26fe246407e59b.webp",
+    "static/media/hp.png": "/Ecommerce/static/media/hp.03dbf10751ae83e67c04.png",
+    "static/media/acer.webp": "/Ecommerce/static/media/acer.5c4ad1e9fd127a0fe6f7.webp",
+    "static/media/headphone.jpg": "/Ecommerce/static/media/headphone.37a2a85238e0195f2138.jpg",
+    "static/media/earphone2.jpg": "/Ecommerce/static/media/earphone2.a33cb7a00aba0d3361dc.jpg",
+    "static/media/iphone 14 pro max.jpg": "/Ecommerce/static/media/iphone 14 pro max.b4d90f44ec1356a79658.jpg",
+    "static/media/lenovo.jpg": "/Ecommerce/static/media/lenovo.1c8189e44661fb7a20b6.jpg",
+    "static/media/logo.png": "/Ecommerce/static/media/logo.6c21cc32d4604a33a9dd.png",
+    "static/media/fantechheadphone.jpg": "/Ecommerce/static/media/fantechheadphone.279bfae8b1f7cc8d09c3.jpg",
+    "static/media/ipadpro-m2.jpeg": "/Ecommerce/static/media/ipadpro-m2.c7619be56cc1b75d3a78.jpeg",
+    "static/media/sonyheadphone.webp": "/Ecommerce/static/media/sonyheadphone.3057303b8cd9d0fc6b64.webp",
+    "static/media/airpods pro.webp": "/Ecommerce/static/media/airpods pro.a50f712ced682ef33170.webp",
+    "static/media/earphone3.webp": "/Ecommerce/static/media/earphone3.a19fc56795c80deb9339.webp",
+    "index.html": "/Ecommerce/index.html",
+    "main.7972e375.css.map": "/Ecommerce/static/css/main.7972e375.css.map",
+    "main.9125677b.js.map": "/Ecommerce/static/js/main.9125677b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7972e375.css",
+    "static/js/main.9125677b.js"
+  ]
+}
