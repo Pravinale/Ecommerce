@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ecommerce/static/css/main.0a2d4419.css",
-    "main.js": "/Ecommerce/static/js/main.970e6306.js",
+    "main.css": "/Ecommerce/static/css/main.cdec36ed.css",
+    "main.js": "/Ecommerce/static/js/main.440d64b3.js",
     "static/media/ipad pro.webp": "/Ecommerce/static/media/ipad pro.44183d26fe246407e59b.webp",
     "static/media/hp.png": "/Ecommerce/static/media/hp.03dbf10751ae83e67c04.png",
     "static/media/acer.webp": "/Ecommerce/static/media/acer.5c4ad1e9fd127a0fe6f7.webp",
@@ -16,11 +16,11 @@
     "static/media/airpods pro.webp": "/Ecommerce/static/media/airpods pro.a50f712ced682ef33170.webp",
     "static/media/earphone3.webp": "/Ecommerce/static/media/earphone3.a19fc56795c80deb9339.webp",
     "index.html": "/Ecommerce/index.html",
-    "main.0a2d4419.css.map": "/Ecommerce/static/css/main.0a2d4419.css.map",
-    "main.970e6306.js.map": "/Ecommerce/static/js/main.970e6306.js.map"
+    "main.cdec36ed.css.map": "/Ecommerce/static/css/main.cdec36ed.css.map",
+    "main.440d64b3.js.map": "/Ecommerce/static/js/main.440d64b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a2d4419.css",
-    "static/js/main.970e6306.js"
+    "static/css/main.cdec36ed.css",
+    "static/js/main.440d64b3.js"
   ]
 }
